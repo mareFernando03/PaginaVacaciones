@@ -1,0 +1,21 @@
+body{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: justify;
+    background-color: gray;
+    
+}
+h1{
+    font-size: 60px;
+    font-family: 'Indie Flower', cursive;
+    
+}
+h2{
+    font-family: 'Righteous', cursive;
+}
+div{
+    background-color: antiquewhite;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 35px;
+}
